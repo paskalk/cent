@@ -1,0 +1,5 @@
+<?xml version= "1.0"  encoding= "utf-8"?>
+<msg_en>
+    <langfield langcode="en" langname="English" langfile="lang_en.xml" active="1"/>
+    <langfield langcode="ki" langname="Kiswahili" langfile="lang_ki.xml" active="1"/>
+</msg_en>

@@ -1,0 +1,41 @@
+<?xml version= "1.0"  encoding= "utf-8"?>
+<message>
+    <mainmenu id="03" code="mobile_banking" value="Mobile Banking" active="1">
+        <submenu id="001" code="enquiry" value="Account Enquiry" active="1">
+            <subminimenu id="001" code="balance" active="1" value="Balance Enquiry"/>
+            <subminimenu id="002" code="miniStatement" active="1" value="Mini Statement"/>
+        </submenu>
+        <submenu id="002" code="transfer" value="Funds Transfer" active="1">
+            <subminimenu id="001" active="1" code="between_own_accounts" value="Between Own Accounts"/>
+            <subminimenu id="002" active="1" code="third_party_account" value="Third Party Century Account"/>
+        </submenu>
+        <submenu id="003" code="bankToMobile" value="Money Send" active="1"/>
+        <submenu id="004" code="billpay" value="Bill Payment" active="1">
+            <subminimenu id="001" active="1" code="GOTV" value="GOTV"/>
+            <subminimenu id="002" active="1" code="DSTV" value="DSTV"/>
+            <subminimenu id="003" active="1" code="KPLC_POSTPAID" value="KPLC(Postpaid)"/>
+            <subminimenu id="004" active="1" code="NAIROBI_WATER" value="Nairobi Water"/>
+        </submenu>
+        <submenu id="005" code="topup" value="Airtime Topup" active="1">
+            <subminimenu id="001" active="1" code="SAFARICOM" value="SAFARICOM"/>
+            <subminimenu id="002" active="0" code="AIRTEL" value="AIRTEL"/>
+        </submenu>
+        <submenu id="006" code="loan" value="Loan Application" active="1"/>
+        <submenu id="007" code="requests" value="Requests" active="1">
+            <subminimenu id="001" active="1" code="PinChange" value="Change Pin"/>
+            <subminimenu id="002" active="1" code="StopCheque" value="Stop Cheque"/>
+        </submenu>
+        <submenu id="008" code="self_registration" value="Self Registration" active="0"/>
+    </mainmenu>
+    <mainmenu id="04" code="epoultry" value="Contract Farming" active="1">
+        <submenu id="001" active="1" code="farmingFloat" value="Available Float"/>
+        <submenu id="002" active="1" code="farmingRequests" value="Request for Inputs">
+            <subminimenu id="001" active="1" code="requestChick" value="Request For Chicks"/>
+            <subminimenu id="002" active="1" code="requestFeed" value="Request For Feeds"/>
+            <subminimenu id="003" active="1" code="requestDrug" value="Request For Drugs"/>
+            <subminimenu id="004" active="1" code="requestVet" value="Request For Vet Services"/>
+        </submenu>
+        <!--<submenu id="004" active="1" code="supplier_menu" value="Supplier Menu"/>-->
+        <submenu id="005" active="0" code="farmingDelivery" value="Delivery"/>
+    </mainmenu>
+</message>

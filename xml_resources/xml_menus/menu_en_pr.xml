@@ -1,0 +1,20 @@
+<?xml version= "1.0"  encoding= "utf-8"?>
+<message>
+    <mainmenu id="03" code="mobile_banking" value="Mobile Banking" active="1">
+        <submenu id="001" code="enquiry" value="Account Enquiry" active="1">
+            <subminimenu id="001" code="balance" active="1" value="Balance Enquiry"/>
+            <subminimenu id="002" code="miniStatement" active="1" value="Mini Statement"/>
+        </submenu>
+       </mainmenu>
+    <mainmenu id="04" code="epoultry" value="Contract Farming" active="1">
+        <submenu id="001" active="1" code="farmingFloat" value="Available Float"/>
+        <submenu id="002" active="1" code="farmingRequests" value="Request for Inputs">
+            <subminimenu id="001" active="1" code="requestChick" value="Request For Chicks"/>
+            <subminimenu id="002" active="1" code="requestFeed" value="Request For Feeds"/>
+            <subminimenu id="003" active="1" code="requestDrug" value="Request For Drugs"/>
+            <subminimenu id="004" active="1" code="requestVet" value="Request For Vet Services"/>
+        </submenu>
+        <!--<submenu id="004" active="1" code="supplier_menu" value="Supplier Menu"/>-->
+        <submenu id="005" active="0" code="farmingDelivery" value="Delivery"/>
+    </mainmenu>
+</message>

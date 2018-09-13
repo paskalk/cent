@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<message>
+    <field spname='LOGINREQUEST' fld68='LOGIN REQUEST' fld98='LOGIN' procode='101010' fld123='USSD' active='1' fncode='MM' syncflag='1' logFileName='LOGINREQUEST'/>
+    
+    <field spname='BALANCE' fld68='BALANCE ENQUIRY' fld98='BAL' procode='310000' fld123='USSD' active='1' fncode='MM' cbsFncode='CC' syncflag='1' logFileName='BALANCE'/>
+    <field spname='MINISTATEMENT' fld68='MINI STATEMENT' procode='380000' fld123='USSD' active='1' fncode='MM' cbsFncode='CC' syncflag='1' logFileName='MINISTATEMENT'/>
+    
+    <field spname='FT' fld68='FUNDS TRANSFER' procode='400000' fld123='USSD' active='1' walletToCore='MC' walletToWallet='MM' coreToWallet='CM' coreToCore='CC' logFileName='FUNDTRANSFER'/>
+	
+    <field spname='B2C' fld68='BANK TO WALLET' procode='430000' fld123='USSD' active='1' walletToBank='MM' coreToBank='CM' logFileName='MONEYSEND'/>
+    
+    <field spname='GOTV' fld100='GOTV' fld68='BILL PAYMENT' fld123='USSD' fld126='BILL_PAYMENTS' procode='500000'  active='1' fncode='MM' cbsFncode='CC' logFileName='GOTVBILLPAYMENT'/>
+    <field spname='DSTV' fld100='DSTV' fld68='BILL PAYMENT' fld123='USSD' fld126='BILL_PAYMENTS' procode='500000'  active='1' fncode='MM' cbsFncode='CC' logFileName='DSTVBILLPAYMENT'/>
+    <field spname='KPLC_POSTPAID' fld100='KPLC_POSTPAID' fld68='BILL PAYMENT' fld123='USSD' fld126='BILL_PAYMENTS' procode='500000' active='1' fncode='MM' cbsFncode='CC' logFileName='KPLCBILLPAYMENT'/>
+    <field spname='NAIROBI_WATER' fld100='NAIROBI_WATER' fld68='BILL PAYMENT' fld123='USSD' fld126='BILL_PAYMENTS' procode='500000' active='1' fncode='MM' cbsFncode='CC' logFileName='NWBILLPAYMENT'/>
+	<field spname='SINGLE_BUSINESS_PERMIT' fld100='SINGLE_BUSINESS_PERMIT' fld68='BILL PAYMENT' fld123='USSD' fld126='BILL_PAYMENTS' procode='500000' active='1' fncode='MM' cbsFncode='CC' logFileName='SINGLEBUSINESSPERMIT'/>
+	<field spname='DAILY_PARKING' fld100='DAILY_PARKING' fld68='BILL PAYMENT' fld123='USSD' fld126='BILL_PAYMENTS' procode='500000' active='1' fncode='MM' cbsFncode='CC' logFileName='DAILYPARKING'/>
+	<field spname='SEASONAL_PARKING' fld100='SEASONAL_PARKING' fld68='BILL PAYMENT' fld123='USSD' fld126='BILL_PAYMENTS' procode='500000' active='1' fncode='MM' cbsFncode='CC' logFileName='SEASONALPARKING'/>
+	<field spname='SACCO_PARKING' fld100='SACCO_PARKING' fld68='BILL PAYMENT' fld123='USSD' fld126='BILL_PAYMENTS' procode='500000' active='1' fncode='MM' cbsFncode='CC' logFileName='SACCOPARKING'/>
+	<field spname='HOUSE_RENT' fld100='HOUSE_RENT' fld68='BILL PAYMENT' fld123='USSD' fld126='BILL_PAYMENTS' procode='500000' active='1' fncode='MM' cbsFncode='CC' logFileName='HOUSERENT'/>
+	<field spname='LAND_RATES' fld100='LAND_RATES' fld68='BILL PAYMENT' fld123='USSD' fld126='BILL_PAYMENTS' procode='500000' active='1' fncode='MM' cbsFncode='CC' logFileName='LANDRATES'/>
+	<field spname='NHIF' fld100='NHIF' fld68='BILL PAYMENT' fld123='USSD' fld126='BILL_PAYMENTS' procode='500000' active='1' fncode='MM' cbsFncode='CC' logFileName='NHIF'/>
+    
+    
+    <field spname='AIRTIMETOPUP' fld68='AIRTIME REQUEST' procode='420000' fld123='USSD' active='1' fncode='MM' cbsFncode='CC' logFileName='TOPUP'/>
+    
+    <field spname='STOPCHEQUE' fld68='STOP CHEQUE' procode='640000' fld123='USSD' active='1' fncode='MM' cbsFncode='CC' logFileName='STOPCHEQUE'/>
+    
+    <field spname='PINCHANGE' fld68='PIN CHANGE' procode='101012' fld123='USSD' active='1' fncode='MM' logFileName='PINCHANGE'/>
+    <field spname='BLOCKREQUEST' fld68='BLOCK REQUEST' procode='101018' fld123='USSD' active='1' fncode='MM' logFileName='BLOCKREQUEST'/>
+    <field spname='SELFREG' fld68='REGISTRATION' procode='320000' fld123='USSD' active='1' fncode='MM' logFileName='REGISTRATION'/>
+    
+    <field spname='LOAN_ENQUIRY' fld68='LOAN ENQUIRY' procode='633000' fld123='USSD' active='1' fncode='MM' syncflag='1' logFileName='LOANENQUIRY'/>
+    <field spname='LOAN_STATEMENT' fld68='LOAN STATEMENT' procode='634000' fld123='USSD' active='1' fncode='MM'  syncflag='1' logFileName='LOANSTATEMENT'/>
+    <field spname='LOAN_APPLICATION' fld68='LOAN APPLICATION' procode='630000' fld123='USSD' active='1' fncode='MM'  syncflag='1' logFileName='LOANAPPLICATION'/>
+    <field spname='LOAN_REPAYMENT' fld68='LOAN EARLY REPAYMENT' procode='631000' fld123='USSD' active='1' fncode='MM'  syncflag='1' logFileName='LOANREPAYMENT'/>
+
+    <field spname='LOAN_PRODUCTS' items='SHORT|'/>
+</message>

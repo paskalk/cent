@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<response>
+    <field17>0407</field17>
+    <field67>sync</field67>
+    <field42>606465ATM000001</field42>
+    <field43>CENTURY MFI</field43>
+    <field48>[{ACTIVE=1, PHONENUMBER=254728452458, CLOSED=null, SECONDNAME=Wednesday, ALERTSMATRIX=, ALIAS=, FIRSTNAME=Waki, BLOCKINGINSTITUTION=null, DOMICILEBRANCH=null, RESET= , PINCHANGE=0.0, LANG=en  , VERIFIED=0.0, LASTNAME=null, IMSI=, IDENTIFICATIONID=null, ACCLOSINGINSTITUTION=null, ID=1, SACCOID=null, REMARK=, APPROVEDBY=null, TRIALS=null, PARTIAL_REGISTRATION=0, CREATEDON=2016-03-16 12:11:29.462690 +00:00, ACCOUNTS=, ACLINKINGINSTITUTION=null, ACCOUNTNAME=Waki Wednesday, UNBLOCKINGINSTITUTION=null, CLOSEREMARK=, INSTITUTIONTYPE=null, LOCALBRANCH=null, REGISTRATIONDATE=null, FIRSTLOGIN=0, RESETINGINSTITUTION=null, PIN=5050, DATEOFBIRTH=null, CUSTOMERNO=, UNBLOCKREMARK=, REGISTERED=null, CLOSEACCOUNT=null, ACDELINKINGINSTITUTION=null, PINRESETREMARK=, MWALLETACCOUNT=254728452458, CLOSEACCOUNT1=null, CUSTOMERNAME=}]</field48>
+    <field49>KES</field49>
+    <field24>MM</field24>
+    <field68>LOGIN REQUEST</field68>
+    <field40>000</field40>
+    <field41>FID00001</field41>
+    <field60>KE</field60>
+    <field100>MWALLET</field100>
+    <field11>293808</field11>
+    <field33>IUBRUXExOTA1</field33>
+    <field12>145525</field12>
+    <field56>bcac5bdc-32fb-42df-8ddb-ce8f705ba8c5</field56>
+    <field0>0100</field0>
+    <field32>USSD</field32>
+    <field98>LOGIN</field98>
+    <field15>0407</field15>
+    <field37>044419293808</field37>
+    <field13>0407</field13>
+    <field7>2016040714</field7>
+    <field3>101010</field3>
+    <field2>254722645492</field2>
+</response>

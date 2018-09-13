@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+<langDetails>
+    <welcome>Dear </welcome>
+    <enter_pin_proceed>, Please enter your pin to proceed.</enter_pin_proceed>
+    <register_option>You are Not Registered. Choose:
+        1. Terms and Conditions
+        2. Self Registration
+    </register_option>
+    <not_registered>You are not registered. </not_registered>
+    <mwallet_reg>Register for Century services</mwallet_reg>
+    <mwallet_login> Century  Services</mwallet_login>
+    <terms_and_conditions>You will receive SMS containing Terms and Conditions for registration.Please read carefully then dial again *487# to continue with Self Registration</terms_and_conditions>
+    <trnfail_no_98>Transaction Failed. </trnfail_no_98>
+    <enter_bill_no>Enter [BILLER] Account number/Meter Number: </enter_bill_no>
+    <reg_sms> With your PIN. </reg_sms>
+    <lang_change_successful>Language change successful</lang_change_successful>
+    <invalid_ac_len>Account length must be below 15 digits.</invalid_ac_len>
+    <invalid_ac_num>Account must have numeric characters only.</invalid_ac_num>
+    <select_account>Select Account No.</select_account>
+    <select_phone_number>Select phone number.</select_phone_number>
+    <invalid_input>Invalid Input. Try Again</invalid_input>
+    <invalid_menu_input> Invalid menu. </invalid_menu_input>
+    <service_unavailable>Service not available at the moment. Try again later</service_unavailable>
+    <service_unavailable_temp>Service Not Available at the moment. Coming soon.</service_unavailable_temp>
+    <customer_resp>Dear customer, your request has been received. You will receive an SMS.</customer_resp>
+    <customer_pr>We will contact you soon. Thank you for using Hela247.</customer_pr>
+    <enter_topup_no>Enter phone number to top up</enter_topup_no>
+    <enter_phone_no>Enter phone number</enter_phone_no>
+    <enter_ac_no>Enter account number </enter_ac_no>
+    <enter_ac_optional>Enter century account number (If you dont have one enter '0') </enter_ac_optional>
+    <topup_no>Enter phone number to top up (e.g 07XX XXX XXX) </topup_no>
+    <enter_identification>Enter National ID No/ Passport No/ Alien ID </enter_identification>
+    <invalid_id>Invalid ID Number/Passport No </invalid_id>
+    <enter_chq_number>Enter Cheque Number</enter_chq_number>
+    <invalid_account>Account Number is invalid. </invalid_account>
+    <enter_cheque_amt>Enter Cheque Amount: </enter_cheque_amt>
+    <Accept_Terms>It is assumed that you have read and agreed to the Terms and Conditions for registration
+        1. Accept
+        2. Decline
+    </Accept_Terms>
+    <terms_declined>You Must Accept century MWallet Terms and Conditions to use this service. </terms_declined>
+    <enter_surname>Enter your surname: </enter_surname>
+    <enter_first_name>Enter first name(As on ID): </enter_first_name>
+    <enter_last_name>Enter middle name(As on ID): </enter_last_name>
+    <exit_menu>Thank you for using Hela247.</exit_menu>
+    <back_menu>Do you want to do another Transaction?
+        1. Yes
+        2. No
+    </back_menu>
+    <select_own_ac_bal>Select The Account Number</select_own_ac_bal>
+    <enter_ac_to>Enter Account to transfer to</enter_ac_to>
+    <confirm_new_pin>Confirm New PIN.</confirm_new_pin>
+    <pin_changed>PIN Change Successful.</pin_changed>
+    <pin_not_match>PINS Do Not Match.</pin_not_match>
+    <change_lang_menu>Select Preferred Language.</change_lang_menu>
+    <reply_with_mwallet>Hela247: </reply_with_mwallet>
+    <enter_valid_ac>Enter a valid account</enter_valid_ac>
+    <accountnumber_from>Enter Account Number to Transfer From:</accountnumber_from>
+    <ac_blocked>Your Account has been blocked. Please visit your nearest branch for assistance or contact our Call Centre +254722168721 or email: info@century.co.ke</ac_blocked>
+    <enter_amount>Enter Amount in KES (Min. 200):</enter_amount>
+	<enter_b2c_amount>Enter Amount in KES (Min. 100):</enter_b2c_amount>
+    <enter_topup_amount>Enter Amount in KES (Min. 10):</enter_topup_amount>
+    <enter_number>: Enter Number:</enter_number>
+    <transfer_to_evalue>Send Money to :</transfer_to_evalue>
+    <confirm_cancel>
+        1.Confirm
+        2.Cancel
+    </confirm_cancel>
+    <trn_cancelled>Transaction Cancelled.  </trn_cancelled>
+    <trn_fail>Transaction Failed.</trn_fail>
+    <language_change_successful>Language change successful</language_change_successful>
+    <trn_cancel>Transaction Cancelled. </trn_cancel>
+    <back_to_mainmenu>Main Menu</back_to_mainmenu>
+    <select_own_ac>Select the account to transfer to</select_own_ac>
+    <select_own_ac_from>Select the Account to transfer from</select_own_ac_from>
+    <enter_cheque_number> Enter Cheque Number: 
+    </enter_cheque_number>
+    <enter_account>Select Account:
+    </enter_account>
+    <enter_account_from>Select Account From:</enter_account_from>
+    <number_to_topup_menu>
+        Please Select Phone Number:
+        1. My Number
+        2. Other Number
+    </number_to_topup_menu>
+    <PinChange_menu> Enter Old Pin:
+    </PinChange_menu>
+    <StopCheque_menu>accounts</StopCheque_menu>
+    <requests_menu> [SPECIFIC_RESPONSE] </requests_menu>
+    <go_home>
+
+99. HOME </go_home>
+    <home_or_back>
+        
+77. BACK
+99. HOME</home_or_back>
+    <invalid_selection> Invalid Selection. please Try again.
+    </invalid_selection>
+    <account_to>Enter Account Number to Transfer To:
+    </account_to>
+    <account_similar>The account you're transferring to shouldn't be the same as account you're transferring from. </account_similar>
+    <amount_invalid>Amount you have entered is not valid. </amount_invalid>
+    <loan_amount_invalid>Amount you have entered is not valid. (Min. KES 1000) </loan_amount_invalid>
+    <topup_amount_invalid>Amount you have entered is not valid. </topup_amount_invalid>
+    <account_invalid>Invalid Account Number. Try again</account_invalid>
+    <account_invalid_phone>Invalid Mobile Number. </account_invalid_phone>
+    <account_invalid_biller>Invalid Account/Meter number. </account_invalid_biller>
+    <cheque_invalid>Invalid Cheque number. </cheque_invalid>
+    <confirm_enquiry>You are about to request the [ENQUIRY_TYPE] for [ACCOUNT]. </confirm_enquiry>
+    <confirm_transfer> You are about to transfer KES.[AMOUNT] from [ACCOUNT_FROM] to [ACCOUNT_TO]. </confirm_transfer>
+    <confirm_bank_to_mobile>You are about to transfer KES.[AMOUNT] from [ACCOUNT_FROM] to [PHONE]. </confirm_bank_to_mobile>
+    <confirm_billpay>You are about to pay KES.[AMOUNT] to [BILLER]-[ACCOUNT_TO] from [ACCOUNT_FROM]. </confirm_billpay>
+    <confirm_topup>You are about to purchase KES.[AMOUNT] worth of [MNO] airtime for [PHONE] from [ACCOUNT_FROM]. </confirm_topup>
+    <confirm_stop_cheque>You are about to stop Cheque: [CHEQUE_NUMBER], worth KES.[AMOUNT] issued from [ACCOUNT_FROM]. </confirm_stop_cheque>
+    <confirm_loan_enquiry>You are about to request for your loan balance. </confirm_loan_enquiry>
+    <confirm_loan_application>You are about to request KES.[AMOUNT] Loan. </confirm_loan_application>
+    <confirm_loan_repayment>You are about to repay KES.[AMOUNT] to service your Loan. </confirm_loan_repayment>
+    
+    <pin_invalid_numbers_only>Invalid PIN. (Enter numbers only)</pin_invalid_numbers_only>
+    <pin_similar>New PIN Should not be Similar to the Existing PIN.</pin_similar>
+    <pin_too_short>Invalid PIN. (Too short)</pin_too_short>
+    <pin_too_long>Invalid PIN. (Too long)</pin_too_long>
+    <enter_pin> Please enter your 4-digit PIN:</enter_pin>
+    <wrong_pin>Wrong PIN.</wrong_pin>
+    <enter_old_pin>Enter Current PIN.</enter_old_pin>
+    <enter_new_pin>Enter New PIN.</enter_new_pin>
+    <pin_fail>PIN Change Failed.</pin_fail>
+    <pin_change_success>Pin Changed Succesfully. 
+    </pin_change_success>
+    <pin_strength_invalid>Weak PIN entered. Please try a stronger number combination</pin_strength_invalid>
+    <self_reg_confirm>You are about to submit your registration request to Century for approval. </self_reg_confirm>
+    <select_product>Select Product: </select_product>
+    <enter_loan_account>Select loan account:</enter_loan_account>
+    <enter_loan_amount>Enter Amount (Min. KES 1000 ; Max. KES 10,000):</enter_loan_amount>
+    <enter_loan_amount_repay>Enter Amount to repay</enter_loan_amount_repay>
+    <no_loan_account>You do not have an active loan. To apply for a loan, return to previous menu.</no_loan_account>
+    <mpesa_to_bank>To use this service ,go to MPESA paybill menu on your SIM card. Enter Paybill number 888600 and your bank or Wallet account number. </mpesa_to_bank>
+	<insufficient_funds>Insufficient funds. </insufficient_funds>
+</langDetails>
